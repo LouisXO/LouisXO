@@ -6,7 +6,7 @@
 - 🍻 Sophomore at 🇺🇸 [UW](uw.edu), _Anticipated Major: Informatics & Economics_
 - ⚡ Java / Python / R.
 - 🏃 Badminton / Running / Cycling
-- https://img.shields.io/badge/MacOS-Windows-blue
+(https://img.shields.io/badge/MacOS-Windows-blue)
 <!---
 LouisXO/LouisXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
