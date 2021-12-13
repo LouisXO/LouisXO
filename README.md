@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
 - 📫 U can Email me : qleng@uw.edu or WeChat: LouisLXO
-- 🍻 Sophomore at 🇺🇸 [UW](uw.edu), _Anticipated Major: Informatics & Economics_
+- 🍻  at 🇺🇸 [UW](uw.edu), _Major: Informatics_
 - 🖥️ Java / Python / R.
 - 🏃 Badminton / Running / Cycling
 <!---
