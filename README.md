@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Louis
-- 📫 U can Email me : qleng@uw.edu or WeChat: LouisLXO
+- 📫 U can Email me : louis.leng@outlook.com
 - 🍻  at 🇺🇸 [UW](uw.edu), _Major: Informatics_
 - 🖥️ Java / Python / R / JavaScript.
 - 🏃 Badminton / Running / Cycling
