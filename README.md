@@ -2,7 +2,7 @@
 - 📫 U can Email me : louis.leng@outlook.com
 - 🍻  at 🇺🇸 [UW](http://www.washington.edu){:target="_blank"} , _Major: Informatics_
 - 
-[link name]([url_link](http://www.washington.edu)){:target="_blank"}
+[link name]((http://www.washington.edu)){:target="_blank"}
 
 - 🖥️ Bash, CSS3, HTML5, Java, Javascript, MATLAB, PHP, Python (incl. Pandas, Scikit-learn, TensorFlow and more), R (incl. dplyr, ggplot and more), SQL(MySQL, NoSQL), TypeScript
 - 💻 Azure, DevOps, Docker, Figma, Flask, Git, Jira, LaTex, Node.js, React.js, Tableau
