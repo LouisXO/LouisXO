@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
 - 📫 U can Email me : louis.leng@outlook.com
-- 🍻  at 🇺🇸 [UW](uw.edu), _Major: Informatics_
+- 🍻  at 🇺🇸 [UW](www.uw.edu), _Major: Informatics_
 - 🖥️ Bash, CSS3, HTML5, Java, Javascript, MATLAB, PHP, Python (incl. Pandas, Scikit-learn, TensorFlow and more), R (incl. dplyr, ggplot and more), SQL(MySQL, NoSQL), TypeScript
 - 💻 Azure, DevOps, Docker, Figma, Flask, Git, Jira, LaTex, Node.js, React.js, Tableau
 
