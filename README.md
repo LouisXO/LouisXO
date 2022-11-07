@@ -2,7 +2,7 @@
 - 📫 U can Email me : louis.leng@outlook.com
 - 🍻  at 🇺🇸 [UW](uw.edu), _Major: Informatics_
 - 🖥️ Bash, CSS3, HTML5, Java, Javascript, MATLAB, PHP, Python (incl. Pandas, Scikit-learn, TensorFlow and more), R (incl. dplyr, ggplot and more), SQL(MySQL, NoSQL), TypeScript
-- 🏃 Badminton / Running / Cycling
+- 💻 Azure, DevOps, Docker, Figma, Flask, Git, Jira, LaTex, Node.js, React.js, Tableau
 
 [![Louis'GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisXO&count_private=true&show_icons=true&theme=prussian)](https://github.com/LouisXO)
 
