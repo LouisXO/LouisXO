@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
-- 📫 U can Email me : louis.leng@outlook.com
-- 🏫 at  <a href="http://www.washington.edu" target="_blank">UW</a> , _Major: Informatics_
+- 📫 U can Email me : qleng@andrew.cmu.edu
+- 🏫 at  <a href="http://cmu" target="_blank">CMU</a> , _Major: Master of Information Systems Management_
 
 
 
