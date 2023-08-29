@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Louis
 - 📫 U can Email me : qleng@andrew.cmu.edu
 - 🏫 Bachelor at <a href="http://www.washington.edu" target="_blank">UW</a> , _Major: Informatics_
-- 🏫 Master at<a href="http://cmu.edu" target="_blank">CMU</a> , _Major: Master of Information Systems Management_
+- 🏫 Master at <a href="http://cmu.edu" target="_blank">CMU</a> , _Major: Master of Information Systems Management_
 
 
 
