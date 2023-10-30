@@ -9,7 +9,7 @@
 - 🖥️ Bash, CSS3, HTML5, Java, Javascript, MATLAB, PHP, Python (incl. Pandas, Scikit-learn, TensorFlow and more), R (incl. dplyr, ggplot and more), SQL(MySQL, NoSQL), TypeScript
 - 💻 Azure, DevOps, Docker, Figma, Flask, Git, Jira, LaTex, Node.js, React.js, Tableau
 
-[![Louis'GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisXO&count_private=true&show_icons=true&theme=prussian)](https://github.com/LouisXO)
+[![Louis'GitHub stats](https://my-stats-fmj45zwhn-louisxos-projects.vercel.app/api?username=LouisXO&count_private=true&show_icons=true&theme=prussian)](https://github.com/LouisXO)
 
 
 <!---
