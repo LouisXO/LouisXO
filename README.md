@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisxo" alt="louisxo" /></a> </p>
 
-- 🏫 Bachelor at <a href="http://www.washington.edu" target="_blank">UW</a> , _Major: Informatics_
+- 🏫 Bachelor at <a href="http://www.washington.edu" target="_blank">UW</a> , _Major: Informatics_, _Minor: Business Administration_
 
 - 🏫 Master at <a href="http://cmu.edu" target="_blank">CMU</a> , _Major: Master of Information Systems Management_
 
