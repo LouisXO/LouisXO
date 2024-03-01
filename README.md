@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Distribution System**
 
-- 👨‍💻 All of my projects are available at [louisleng.com](louisleng.com)
+- 👨‍💻 All of my projects are available at [louisleng.com](https://louisleng.com/)
 
 - 💬 Ask me about **react, vue**
 
