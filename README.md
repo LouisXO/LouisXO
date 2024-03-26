@@ -29,7 +29,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louisxo&show_icons=true&locale=en&layout=compact" alt="louisxo" /></p>
-<p>&nbsp;<img align="center" src="https://my-stats-fmj45zwhn-louisxos-projects.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://my-stats-fmj45zwhn-louisxos-projects.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-stats-2024.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louisxo&" alt="louisxo" /></p>
 <!---
