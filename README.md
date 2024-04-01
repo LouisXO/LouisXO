@@ -10,7 +10,7 @@
 
 - 🏫 Master at <a href="http://cmu.edu" target="_blank">CMU</a> , _Major: Master of Information Systems Management_
 
-- 🌱 I’m currently learning **Distribution System**
+- 🌱 I’m currently learning **Distributed System**
 
 - 👨‍💻 All of my projects are available at [louisleng.com](https://louisleng.com/)
 
