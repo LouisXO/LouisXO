@@ -12,7 +12,7 @@
 # 💫 About Me:
 - 🏫 Bachelor at <a href="http://www.washington.edu" target="_blank">University of Washington (UW)</a> , _Major: Informatics_, _Minor: Business Administration_
 
-- 🏫 Master at <a href="http://cmu.edu" target="_blank">Carnegie Mellon University(CMU)</a> , _Major: Master of Information Systems Management_
+- 🏫 Master at <a href="http://cmu.edu" target="_blank">Carnegie Mellon University (CMU)</a> , _Major: Master of Information Systems Management_
 
 
 - 🌱 I’m currently learning **Distributed Systems, Computer Networks, Web Application Development**
