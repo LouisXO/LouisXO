@@ -15,7 +15,7 @@
 - 🏫 Master at <a href="http://cmu.edu" target="_blank">Carnegie Mellon University (CMU)</a> , _Major: Master of Information Systems Management_
 
 
-- 🌱 I’m currently learning **Distributed Systems, Computer Networks, Web Application Development**
+- 🌱 I’m currently learning **Distributed Systems, Computer Networks, Large Language Models Methods and Application, Machine Learning in Production**
 
 - 👨‍💻 All of my projects are available at [louisleng.com](https://louisleng.com/)
 
