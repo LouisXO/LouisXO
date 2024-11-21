@@ -1,25 +1,24 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=louisxo&label=Profile%20views&color=0e75b6&style=flat" alt="louisxo" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=louisxo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Louis Leng</h1>
-<h3 align="center">A passionate full-stack developer located in Pittsburgh right now!</h3>
+<h3 align="center">A passionate full-stack developer currently based in Pittsburgh!</h3>
+
 <div align="center">
-  <img align="center" src="https://raw.githubusercontent.com/louisxo/louisxo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/louisxo/louisxo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+---
 
-
-
-# 💫 About Me:
-- 🏫 Bachelor at <a href="http://www.washington.edu" target="_blank">University of Washington (UW)</a> , _Major: Informatics_, _Minor: Business Administration_
-
-- 🏫 Master at <a href="http://cmu.edu" target="_blank">Carnegie Mellon University (CMU)</a> , _Major: Master of Information Systems Management_
-
-
-- 🌱 I’m currently learning **Distributed Systems, Computer Networks, Large Language Models Methods and Application, Machine Learning in Production**
-
+## 💫 About Me
+- 🏫 **Bachelor's Degree** in [Informatics](http://www.washington.edu) (Minor: Business Administration) at **University of Washington**
+- 🎓 **Master's Degree** in [Information Systems Management](http://cmu.edu) at **Carnegie Mellon University**
+- 🌱 Currently learning **Distributed Systems**, **Computer Networks**, **Large Language Models**, and **Machine Learning in Production**
 - 👨‍💻 All of my projects are available at [louisleng.com](https://louisleng.com/)
+- 📫 Reach me at **qleng@andrew.cmu.edu**
 
-- 📫 How to reach me **qleng@andrew.cmu.edu**
+---
 
 # 🌐 Socials:
 <div align="center">
@@ -106,9 +105,11 @@
 
 <div align="center">
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louisxo" alt="louisxo" /></a> </p>
+  
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=louisxo&show_icons=true&locale=en&layout=compact" alt="louisxo" /></p>
+
+<p><img src="https://readme-stats-lilac-iota.vercel.app/api/top-langs/?username=louisxo&hide=css,html&count_private=true&size_weight=0.4&count_weight=0.2&langs_count=8" alt="louisxo" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://my-stats-fmj45zwhn-louisxos-projects.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p> -->
 <p>&nbsp;<img  src="https://github-stats-2024.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p>
 
