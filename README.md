@@ -111,7 +111,8 @@
 
 <p><img src="https://readme-stats-lilac-iota.vercel.app/api/top-langs/?username=louisxo&hide=css,html&count_private=true&size_weight=0.4&count_weight=0.2&langs_count=8" alt="louisxo" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://my-stats-fmj45zwhn-louisxos-projects.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p> -->
-<p>&nbsp;<img  src="https://github-stats-2024.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p>
+<!---
+ <p>&nbsp;<img  src="https://github-stats-2024.vercel.app/api?username=LouisXO&count_private=true&show_icons=true" alt="louisxo" /></p>
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=louisxo&" alt="louisxo" /></p>
@@ -120,6 +121,8 @@
 LouisXO/LouisXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 
 
 </div>
