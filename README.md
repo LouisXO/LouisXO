@@ -92,7 +92,8 @@
 
 <p>
   <img src="https://readme-stats-lilac-iota.vercel.app/api?username=LouisXO&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louisxo&theme=default" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=louisxo&theme=default" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats-ashy-zeta.vercel.app/?user=louisxo&theme=default" alt="GitHub Streak" />
   <img src="https://readme-stats-lilac-iota.vercel.app/api/top-langs/?username=LouisXO&hide=css,html&layout=compact&count_private=true&theme=default&size_weight=0.4&count_weight=0.2&langs_count=8" alt="Top Languages" />
 </p>
 
