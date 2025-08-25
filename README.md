@@ -15,7 +15,7 @@
 <ul align="left">
   <li>🏫 <b>Bachelor's Degree</b> in Informatics (Minor: Business Administration) at <b><a href="http://www.washington.edu">University of Washington</a></b></li>
   <li>🎓 <b>Master's Degree</b> in Information Systems Management at <b><a href="http://cmu.edu">Carnegie Mellon University</a></b></li>
-  <li>💼 <b>Software Engineer</b> at <b>Ansatz AI</b> - Building scalable platforms that bridge machine learning with production-ready user experiences</li>
+  <li>💼 <b>Software Engineer</b> at <b>Matroid</b> - Building scalable platforms that bridge machine learning with production-ready user experiences</li>
   <li>🌱 Currently focused on <b>LLM Integration</b>, <b>Distributed Systems</b>, <b>Cloud Infrastructure</b>, and <b>AI/ML Production Systems</b></li>
   <li>👨‍💻 All of my projects are available at <a href="https://louisleng.com/">louisleng.com</a></li>
   <li>📫 Reach me at <b>me@louisleng.com</b></li>
