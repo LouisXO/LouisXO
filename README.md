@@ -5,7 +5,7 @@
 </p>
 
 <h1>Hi 👋, I'm Louis Leng</h1>
-<h3>A passionate full-stack developer currently based in Pittsburgh!</h3>
+<h3>A passionate full-stack developer currently based in Palo Alto!</h3>
 
 <img src="https://raw.githubusercontent.com/louisxo/louisxo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
