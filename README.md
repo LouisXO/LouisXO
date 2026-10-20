@@ -1,8 +1,8 @@
 <div align="center">
 
-<p>
+<!-- <p>
   <img src="https://komarev.com/ghpvc/?username=louisxo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <h1>Hi 👋, I'm Louis Leng</h1>
 <h3>A passionate full-stack developer currently based in Palo Alto!</h3>
